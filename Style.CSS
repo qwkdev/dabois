@@ -1,0 +1,32 @@
+body{
+    background-color: darkgrey;
+}
+
+.P{
+    color: green;
+}
+
+.st{
+    text-align: center;
+    color:darkblue;
+    background-color: antiquewhite;
+}
+
+.nav {
+    text-align: center;
+    padding: 10px;
+    justify-content: space-evenly;
+    display: flex;
+  }
+
+.Pa{
+    text-align: center
+}
+
+
+
+.grid{
+    display: grid;
+    grid-template-columns: 200px auto;
+    gap: 25px;
+}
