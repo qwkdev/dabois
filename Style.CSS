@@ -1,31 +1,25 @@
-body{
+body {
     background-color: darkgrey;
 }
 
-.P{
+.P {
     color: green;
 }
-
-.st{
+.st {
     text-align: center;
     color:darkblue;
     background-color: antiquewhite;
 }
-
 .nav {
     text-align: center;
     padding: 10px;
     justify-content: space-evenly;
     display: flex;
   }
-
-.Pa{
+.Pa {
     text-align: center
 }
-
-
-
-.grid{
+.grid {
     display: grid;
     grid-template-columns: 200px auto;
     gap: 25px;
