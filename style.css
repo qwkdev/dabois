@@ -54,7 +54,7 @@ body {
 		}
 	}
 }
-/* !important isn't best practice, but its easier to do it this way, in this case */
+/* !important isn't best practice, but its easier for this case */
 @media (max-width: 800px) {
 	#links {
 		width: 100% !important;
